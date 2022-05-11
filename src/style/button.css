@@ -12,13 +12,13 @@ button {
 }
 
 button:hover {
-	background-color: #00471b;
+	background-color: #2c0703;
 }
 
 .click-button{
-  background-color: #002ead;
+  background-color: #890620;
 }
 
 .restart-button{
-  background-color: #5a01a7;
+  background-color: #b6465f;
 }

@@ -6,7 +6,7 @@
 
 html,
 body {
-    background-color: #1b1b32;
+    background-color: #ebd4cb;
 }
 
 .App {
@@ -23,12 +23,12 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin: 20px;
+    margin: 10px;
 }
 
 .logo {
-    height: 50px;
-    
+    height: 200px;
+    width: 200px;
 }
 
 .counter-container {

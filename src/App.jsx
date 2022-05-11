@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import logo from './img/logo.png';
+import logo from './img/url1.svg';
 import './App.css';
 import Button from './components/Button';
 import Counter from './components/Counter';
